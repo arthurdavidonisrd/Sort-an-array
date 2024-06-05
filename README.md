@@ -1,2 +1,2 @@
 # Sort-an-array
-Algorithm to sort arrays in C languagem (Data Structure).
+Algorithm to sort arrays in C language (Data Structure).
